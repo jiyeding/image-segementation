@@ -1,3 +1,4 @@
+library(RSpectra)
 # NJW #
 image.njw <- function(data,b,sigma_p,x) {
   ## produce W ##
